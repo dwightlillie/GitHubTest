@@ -1,2 +1,2 @@
 # GitHubTest
-playing with GitHub
+experimenting with GitHub
