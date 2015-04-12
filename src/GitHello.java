@@ -12,9 +12,7 @@ public class GitHello {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hello ...");
-		System.out.println("another");
-		System.out.println("A third line");
+
 		int[] cards = new int[10];
 		Random rn = new Random();
 		for (int i = 0; i < cards.length; i++) cards[i] = i+1;
